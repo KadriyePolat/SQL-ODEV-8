@@ -1,0 +1,12 @@
+1-)test  veritabanınızda employee isimli sütun bilgileri id(INTEGER) , name VARCHAR(50) , birthday DATE, VARCHAR(100) olan bir tablo oluşturalım.
+CREATE TABLE employee (id integer , name varchar(50) , birthday date , email varchar(100);
+
+
+2-)Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
+-insert into employee (id , name , birthday , email) values (1, 'Loren Arnot' , '1991-01-08', (larnot0@usda.gov') ;
+-insert into employee (id , name , birthday , email) values (2, 'Karie Kimmin', '1950-02-09', (kkimmin1@mediafire.com');
+-insert into employee (id , name , birthday , email) values (3, 'Teirza Coldiet', '1999-12-10', (tcoldiet2@buzzfeed.com');
+-insert into employee (id , name , birthday , email) values (4, 'Iorgos Earwic' , '1988-11-16', (ıearwic3@constantcontact.com');
+-insert into employee (id , name , birthday , email) values (5, 'Enos Wenger' , '1968-06--14', (ewenger4@scribd.com');
+-insert into employee (id , name , birthday , email) values (6,'Vita Corballis', '1911-04-17', (vcorballis@abc.net.au');
+-insert into employee (id , name , birthday , email) values (7,Antoi
